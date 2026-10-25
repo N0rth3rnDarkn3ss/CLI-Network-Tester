@@ -1,6 +1,4 @@
-=============================
-     CLI Network Tester
-=============================
+CLI Network Tester
 
 A lightweight, cross-platform command-line utility built with C# 
 and .NET to measure network latency (Ping), download speeds, and
@@ -12,13 +10,9 @@ Spinners make sure your terminal window doesn't look dead and
 frozen. There are no dependencies, no need to install .NET to run
 as the program is fully self-contained.
 
-=======================================
     How to run by Operating System
-=======================================
 
-=====================
        Windows
-=====================
 
 1. Open your terminal (Command Prompt or PowerShell)
 2. Navigate to the folder containing the file
@@ -26,9 +20,7 @@ as the program is fully self-contained.
 
 Example: C:\Users\User Here\Downloads\win-x64\"CLI Network Tester.exe"
 
-=====================
         MacOS
-=====================
 
 1. Open Terminal
 2. Navigate to folder (Paste pathname to FOLDER, not file)
@@ -47,9 +39,7 @@ xattr -d com.apple.quarantine "CLI Network Tester"
 
 Example: ~/Downloads/osx-arm64/"CLI Network Tester"
 
-======================
         Linux
-======================
 
 1. Open your system Terminal
 2. Navigate to the FOLDER containing file (cd [pathname here])
